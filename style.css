@@ -1,0 +1,15 @@
+body{
+	background-color: black;
+	color: white;
+}
+#fname , #lname , #furnumba{
+	width: 500px;
+}
+
+#template{
+	display: none;
+}
+
+.buttonform{
+	padding-top: 50px;
+}
